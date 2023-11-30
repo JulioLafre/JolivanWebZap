@@ -22,6 +22,12 @@ body{
     color: #fff;
     border-radius: 10px;
     padding: 30px;
+    text-align: center;
+}
+
+.wrapper img {
+    width: 65%;
+
 }
 
 .wrapper h1 {
